@@ -1,0 +1,17 @@
+.nav-struct {
+  margin: auto;
+  width: 1100px;
+}
+.nav-border {
+  border-bottom: #ffffff 1px solid;
+}
+.nav-logo {
+  font-family: 'Rye', cursive;
+  font-weight: 400;
+}
+.left-pad {
+  padding-left: 75px;
+}
+.nav-link {
+  color: #ffffff;
+}
