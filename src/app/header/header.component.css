@@ -1,0 +1,35 @@
+div {
+  background-color: rgb(8, 8, 8);
+  height: 740px;
+}
+#image-div {
+  background-image: url("../../assets/images/header-backgroundImage.png");
+  background-position: center center;
+  background-size: contain;
+  margin: auto;
+  width: 775px;
+}
+p {
+  font-family: 'Righteous', cursive;
+  font-size: 25px;
+}
+h1 {
+  font-family: 'Rye', cursive;
+  font-weight: 400;
+  font-size: 55px;
+  letter-spacing: 12px;
+  text-align: center;
+}
+#p1 {
+  padding-top: 255px;
+  margin-left: 67px;
+  text-align: left;
+}
+#p2 {
+  margin: 5px 0 0 90px;
+  text-align: left;
+}
+#p3 {
+  margin: 0 0 -10px 400px;
+  text-align: left;
+}
