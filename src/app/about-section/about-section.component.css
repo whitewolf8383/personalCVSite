@@ -1,0 +1,36 @@
+.main-div {
+  margin: auto;
+  text-align: center;
+  width: 1100px;
+}
+h1, h2, p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+h1 {
+  font-size: 40px;
+}
+h2, p {
+  font-size: 20px;
+}
+.top-hr, .bottom-hr {
+  border: #ffffff solid 1px;
+  width: 100px;
+}
+#left-timeline {
+  border-right: #ffffff solid 1px;
+  display: inline-block;
+  width: 450px;
+}
+#right-timeline {
+  display: inline-block;
+  width: 450px;
+}
+.data-box {
+  background-color: #474749;
+  text-align: center;
+  width: 425px;
+}
+.data-box p {
+  width: 355px;
+}
